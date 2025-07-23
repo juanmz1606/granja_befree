@@ -1,0 +1,23 @@
+venv/
+
+# Archivos de bases de datos SQLite
+*.db
+
+# Configuración y variables de entorno
+.env
+
+# Archivos de Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de logs
+*.log
+
+# Configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de herramientas de desarrollo
+*.idea/
+*.vscode/
